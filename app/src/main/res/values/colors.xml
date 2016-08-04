@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 登陆动画颜色 -->
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_blue">#15a9bc</color>
+    <color name="cpb_blue_dark">#72b8c1</color>
+    <color name="cpb_white">@android:color/white</color>
+</resources>
